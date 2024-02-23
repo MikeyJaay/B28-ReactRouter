@@ -1,4 +1,5 @@
-*{ font-family: arial, sans-serif;
+* {
+  font-family: arial, sans-serif;
   margin: 0;
 }
 body,
@@ -33,5 +34,10 @@ body > div {
 }
 .blue {
   background-color: #275db3;
+  color: white;
+}
+
+.home {
+  background-color: gray;
   color: white;
 }
